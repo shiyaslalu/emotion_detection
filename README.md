@@ -1,4 +1,4 @@
-#Emotion Detection with Machine Learning
+# Emotion Detection with Machine Learning
 This repository contains code and resources for a simple emotion detection project using machine learning techniques. The goal of this project is to classify facial expressions into one of several basic emotions, such as happiness, sadness, anger, surprise, etc.
 
 Overview
